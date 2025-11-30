@@ -58,7 +58,7 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">May-December 2023</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Basal FB210003 Centro de Astrofísica y Tecnologías Afines (CATA) Project, Universidad de Concepción. Funded my undergraduate research project on OB associations.
+   Basal FB210003  Project, Centro de Astrofísica y Tecnologías Afines (CATA), Universidad de Concepción. Funded my undergraduate research project on OB associations.
    </span>
 </div>
 
