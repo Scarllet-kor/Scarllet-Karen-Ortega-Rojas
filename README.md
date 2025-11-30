@@ -60,7 +60,7 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">June 2024</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Texto
+   Participation in the Summer School in Statistics for Astronomers, organized by The Pennsylvania State University, USA, aimed at learning advanced statistical methods together with R training.
    </span>
 </div>
 
