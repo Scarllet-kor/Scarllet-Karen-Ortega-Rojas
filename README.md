@@ -43,7 +43,7 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">May 2025</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Scientific Writing for Young Astronomers School, Sintra, Portugal. School organized by <em>Astronomy & Astrophysics</em> with the aim of learning how to write scientific articles for different categories
+   6th Scientific Writing for Young Astronomers School, Sintra, Portugal. Organized by Astronomy & Astrophysics, the school aimed to teach participants how to write scientific articles for different categories.
    </span>
 </div>
 
