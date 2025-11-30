@@ -95,7 +95,7 @@ Native Spanish, intermediate English
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">Programming and Software:</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-Python, LaTeX, TOPCAT, McLuster, Nbody6++GPU.
+Python, LaTeX, TOPCAT, McLuster, Nbody6++GPU
    </span>
 </div>
 
