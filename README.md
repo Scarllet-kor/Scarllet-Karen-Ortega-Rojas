@@ -24,6 +24,7 @@ Junio 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 ## Teaching experience
 
 ## Scholarships
+2025-2027
 
 ## Technical skills & tools
 
