@@ -9,7 +9,10 @@
    </span>
 </div>
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">2018-2023</span> Bachelor’s degree in Astronomy, Universidad de Concepción
+ <span style="display:inline-block; width:150px; vertical-align:top;">2018-2023</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Bachelor’s degree in Astronomy, Universidad de Concepción
+   </span>
 </div>
 
 
