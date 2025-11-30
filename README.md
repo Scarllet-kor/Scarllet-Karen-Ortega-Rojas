@@ -93,7 +93,7 @@ Spanish-native and english-intermediate
 </div>
 
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">Programming and Software</span> 
+ <span style="display:inline-block; width:150px; vertical-align:top;">Programming and Software:</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
 Python, LaTeX, topcat, Fortran 77, McLuster y Nbody6++.
    </span>
