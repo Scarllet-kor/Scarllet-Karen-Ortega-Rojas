@@ -104,9 +104,16 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 
 ## Outreach
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+ <span style="display:inline-block; width:150px; vertical-align:top;">2019-Present</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Texto
+   Member of the Astronomical Outreach Team (EDA) at the Universidad de Concepción, serving as a facilitator, trained to work with children, adolescents, and adults.
+   </span>
+</div>
+
+<div>
+ <span style="display:inline-block; width:150px; vertical-align:top;">2020-2022</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Member of the SciCat project, a team dedicated to creating university level digital content across various STEM fields and actively supporting students during the pandemic.
    </span>
 </div>
 
