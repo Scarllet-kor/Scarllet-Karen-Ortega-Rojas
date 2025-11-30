@@ -88,9 +88,9 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 
 ## Scholarships
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+ <span style="display:inline-block; width:150px; vertical-align:top;">2025-2027</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Texto
+   ANID National Doctoral Fellowship 2025.
    </span>
 </div>
 
