@@ -43,9 +43,9 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 
 ## Conferences
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+ <span style="display:inline-block; width:150px; vertical-align:top;">September 2023</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Texto
+   Poster presentation at the 65ª Reunión Anual de la Asociación Argentina de Astronomía in San Juan, Argentina.
    </span>
 </div>
 
