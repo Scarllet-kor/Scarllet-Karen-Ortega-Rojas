@@ -18,7 +18,7 @@
 
 ## Publications
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px;">Proceedind</span> texto
 <div>
 
 ## Conferences
