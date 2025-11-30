@@ -96,9 +96,10 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 
 ## Technical skills & tools
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+ <span style="display:inline-block; width:150px; vertical-align:top;">Languages:</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Texto
+Spanish: Native
+English: Intermediate
    </span>
 </div>
 
