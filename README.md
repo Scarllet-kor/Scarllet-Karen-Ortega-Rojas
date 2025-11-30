@@ -121,6 +121,6 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">2025</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Member of Sociedad Chilena de Astronomía(SOCHIAS).
+   Member of Sociedad Chilena de Astronomía (SOCHIAS).
    </span>
 </div>
