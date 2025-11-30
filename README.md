@@ -27,9 +27,9 @@
 
 ## Publications
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+ <span style="display:inline-block; width:150px; vertical-align:top;">2024</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Texto
+   Insights into the formation of OB associations: an examination of key parameters. S. Ortega, M. Bascuñán, S. Villanova & P. Assmann. Boletín de la Asociación Argentina de Astronomía.
    </span>
 </div>
 
