@@ -50,7 +50,7 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">June 2024</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Participation in the Summer School in Statistics for Astronomers, organized by The Pennsylvania State University, USA, aimed at learning advanced statistical methods together with R training.
+   Participation in the Summer School in Statistics for Astronomers, organized by The Pennsylvania State University, USA, aimed at learning advanced statistical methods together with training in R.
    </span>
 </div>
 
@@ -88,14 +88,14 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">Languages:</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-Spanish-native and english-intermediate
+Native Spanish and intermediate English
    </span>
 </div>
 
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">Programming and Software:</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-Python, LaTeX, topcat, Fortran 77, McLuster y Nbody6++.
+Python, LaTeX, topcat, Fortran 77, McLuster and Nbody6++GPU.
    </span>
 </div>
 
