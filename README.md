@@ -14,7 +14,7 @@ March 2024 – Present &nbsp;&nbsp;&nbsp; PhD Student in Physical Sciences, Univ
 ## Conferences
 
 ## Schools
-Mayo 2025
+Mayo 2025 6th Scientific Writing for Young Astronomers School, Sintra Portugal.
 
 Junio 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in the Summer School in Statistics for Astronomers organized by The Pennsylvania State 
 
