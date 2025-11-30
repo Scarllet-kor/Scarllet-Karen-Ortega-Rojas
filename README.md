@@ -8,28 +8,49 @@
 </div>
 
 ## Research experience
-
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 ## Publications
-
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 ## Conferences
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 ## Schools
-Mayo 2025 6th Scientific Writing for Young Astronomers School, Sintra Portugal.
-
-Junio 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in the Summer School in Statistics for Astronomers organized by The Pennsylvania State 
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  University (USA), focused on learning advanced statistical methods and training in R.
 
 
 ## Teaching experience
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 ## Scholarships
-2025-2027
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 ## Technical skills & tools
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 ## Outreach
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
 
 ## Memberships
+<div>
+ <span style="display:inline-block; width:150px;">fecha</span> texto
+<div>
