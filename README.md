@@ -66,9 +66,23 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 
 ## Teaching experience
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+ <span style="display:inline-block; width:150px; vertical-align:top;">2025</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Texto
+   Teaching Assistant for the course Astrophysics for Physics Education students at the Universidad de Concepción.
+   </span>
+</div>
+
+<div>
+ <span style="display:inline-block; width:150px; vertical-align:top;">2024</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Teaching Assistant for the course Galactic Astrophysics at the Universidad de Concepción.
+   </span>
+</div>
+
+<div>
+ <span style="display:inline-block; width:150px; vertical-align:top;">2020</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Teaching Assistant for the course Differential and Integral Calculus at the Universidad de Concepción.
    </span>
 </div>
 
