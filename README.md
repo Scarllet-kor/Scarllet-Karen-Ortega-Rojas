@@ -2,8 +2,8 @@
 
 ## Education
 
-<div>
- <span style="display:inline-block; width:150px;">March 2024–Present</span> PhD Student in Physical Sciences, Universidad de Concepción
+<div style="margin-left:160px;">
+ March 2024–Present<br> PhD Student in Physical Sciences, Universidad de Concepción
 </div>
 <div>
  <span style="display:inline-block; width:150px;">2018-2023</span> Bachelor’s degree in Astronomy, Universidad de Concepción
