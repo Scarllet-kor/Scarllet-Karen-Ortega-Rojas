@@ -27,4 +27,6 @@ Junio 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 ## Technical skills & tools
 
-## Languages
+## Outreach
+
+## Memberships
