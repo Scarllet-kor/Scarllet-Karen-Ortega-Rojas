@@ -102,6 +102,13 @@ Spanish-native, english-intermediate
    </span>
 </div>
 
+<div>
+ <span style="display:inline-block; width:150px; vertical-align:top;">Programming and Software</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+Python, LaTeX, topcat, Fortran 77, McLuster y Nbody6++.
+   </span>
+</div>
+
 ## Outreach
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">2019-Present</span> 
