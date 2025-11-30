@@ -9,11 +9,11 @@ March 2024 – Present &nbsp;&nbsp;&nbsp; PhD Student in Physical Sciences, Univ
 <p>PhD Student in Physical Sciences, Universidad de Concepción</p>
 
 <div>
-  <span style="display:inline-block; width:150px;">Mar 2024 – Presente</span>
+  <span style="display:inline-block; width:1800px;">Mar 2024 – Presente</span>
   PhD Student in Physical Sciences, Universidad de Concepción
 </div>
 <div>
-  <span style="display:inline-block; width:150px;">Mar 2020 – Feb 2024</span>
+  <span style="display:inline-block; width:1800px;">Mar 2020 – Feb 2024</span>
   B.Sc. in Astronomy, Universidad de Concepción
 </div>
 
