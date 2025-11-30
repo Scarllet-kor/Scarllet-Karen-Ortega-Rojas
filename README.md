@@ -1,5 +1,5 @@
 # PhD student
 
 ## Education
-PhD Student in Physical Sciences, Universidad de Concepción &nbsp;&nbsp;&nbsp; March 2024 – Present
+March 2024 – Present &nbsp;&nbsp;&nbsp; PhD Student in Physical Sciences, Universidad de Concepción  
 
