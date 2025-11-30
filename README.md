@@ -10,6 +10,9 @@ March 2024 – Present &nbsp;&nbsp;&nbsp; PhD Student in Physical Sciences, Univ
 
 ## Publications
 
+- Chemical complexity in simulations of circumstellar disk formation | **Proceeding**
+  - Revista Mexicana de Astronomía y Astrofísica Serie Conferencias
+
 ## Conferences
 
 ## Schools
