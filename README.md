@@ -19,49 +19,73 @@
 ## Research experience
 
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 ## Publications
 <div>
- <span style="display:inline-block; width:150px;">2024</span> texto
-</div>
-<div>
- <span style="display:inline-block; width:150px;">2024</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 ## Conferences
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 ## Schools
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 
 ## Teaching experience
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 ## Scholarships
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 ## Technical skills & tools
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 ## Outreach
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
 
 ## Memberships
 <div>
- <span style="display:inline-block; width:150px;">fecha</span> texto
+ <span style="display:inline-block; width:150px; vertical-align:top;">Fecha</span> 
+  <span style="display:inline-block; width:calc(100% - 160px);"> 
+   Texto
+   </span>
 </div>
