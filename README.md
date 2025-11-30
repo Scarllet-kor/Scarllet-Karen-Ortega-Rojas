@@ -18,7 +18,10 @@
 
 ## Publications
 <div>
- <span style="display:inline-block; width:150px;">Proceeding</span> texto
+ <span style="display:inline-block; width:150px;">2024</span> texto
+</div>
+<div>
+ <span style="display:inline-block; width:150px;">2024</span> texto
 </div>
 
 ## Conferences
