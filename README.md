@@ -98,8 +98,7 @@ data from OB associations</em>. Boletín de la Asociación Argentina de Astronom
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">Languages:</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-Spanish: Native
-English: Intermediate
+Spanish-native, english-intermediate
    </span>
 </div>
 
