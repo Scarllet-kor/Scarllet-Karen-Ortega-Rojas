@@ -17,10 +17,15 @@
 
 ## Publications
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">2025</span> 
-  <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Bascuñán, M., Ortega-Rojas, S., Villanova, S., Carraro, G., and Assmann, P. <em>The early evolution of OB associations</em>. Astronomy & Astrophysics, submitted.
-   </span>
+  <span style="display:inline-block; width:150px; vertical-align:top;">2025</span>
+  <span style="display:inline-block; width:calc(100% - 160px);">
+    <!-- Nombres -->
+    Bascuñán, M., Ortega-Rojas, S., Villanova, S., Carraro, G., and Assmann, P.<br>
+    <!-- Título del artículo -->
+    <em>The early evolution of OB associations</em><br>
+    <!-- Revista y estado -->
+    Astronomy & Astrophysics, submitted
+  </span>
 </div>
 
 <div>
