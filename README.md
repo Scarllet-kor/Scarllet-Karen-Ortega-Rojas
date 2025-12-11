@@ -22,9 +22,9 @@
     <!-- Nombres -->
     Bascuñán, M., Ortega-Rojas, S., Villanova, S., Carraro, G., and Assmann, P.<br>
     <!-- Título del artículo -->
-    <em>The early evolution of OB associations</em><br>
+    <em>The early evolution of OB associations.</em><br>
     <!-- Revista y estado -->
-    Astronomy & Astrophysics, submitted
+    Astronomy & Astrophysics, submitted.
   </span>
 </div>
 
@@ -34,9 +34,9 @@
     <!-- Nombres -->
     Ortega, S., Bascuñán, M., Villanova, S., and Assmann, P.<br>
     <!-- Título del artículo -->
-    <em>Insights into the formation of OB associations: an examination of key parameters</em><br>
+    <em>Insights into the formation of OB associations: an examination of key parameters.</em><br>
     <!-- Revista -->
-    Boletín de la Asociación Argentina de Astronomía
+    Boletín de la Asociación Argentina de Astronomía.
   </span>
 </div>
 
@@ -46,9 +46,9 @@
     <!-- Nombres -->
     Bascuñán, M., Ortega, S., Villanova, S., and Assmann, P.<br>
     <!-- Título del artículo -->
-    <em>Comparison of N-body simulations with Gaia DR3 data from OB associations</em><br>
+    <em>Comparison of N-body simulations with Gaia DR3 data from OB associations.</em><br>
     <!-- Revista -->
-    Boletín de la Asociación Argentina de Astronomía
+    Boletín de la Asociación Argentina de Astronomía.
   </span>
 </div>
 
