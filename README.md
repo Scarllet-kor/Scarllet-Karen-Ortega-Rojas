@@ -29,19 +29,29 @@
 </div>
 
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">2024</span> 
-  <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Ortega, S., Bascuñán, M., Villanova, S., and Assmann, P. <em>Insights into the formation of OB associations: an examination of key parameters</em>. Boletín de la Asociación Argentina de Astronomía.
-   </span>
+  <span style="display:inline-block; width:150px; vertical-align:top;">2024</span>
+  <span style="display:inline-block; width:calc(100% - 160px);">
+    <!-- Nombres -->
+    Ortega, S., Bascuñán, M., Villanova, S., and Assmann, P.<br>
+    <!-- Título del artículo -->
+    <em>Insights into the formation of OB associations: an examination of key parameters</em><br>
+    <!-- Revista -->
+    Boletín de la Asociación Argentina de Astronomía
+  </span>
 </div>
 
 <div>
- <span style="display:inline-block; width:150px; vertical-align:top;">2024</span> 
-  <span style="display:inline-block; width:calc(100% - 160px);"> 
-   Bascuñán, M., Ortega, S., Villanova, S., and P. Assmann <em>Comparison of N-body simulations with Gaia DR3
-data from OB associations</em>. Boletín de la Asociación Argentina de Astronomía.
-   </span>
+  <span style="display:inline-block; width:150px; vertical-align:top;">2024</span>
+  <span style="display:inline-block; width:calc(100% - 160px);">
+    <!-- Nombres -->
+    Bascuñán, M., Ortega, S., Villanova, S., and Assmann, P.<br>
+    <!-- Título del artículo -->
+    <em>Comparison of N-body simulations with Gaia DR3 data from OB associations</em><br>
+    <!-- Revista -->
+    Boletín de la Asociación Argentina de Astronomía
+  </span>
 </div>
+
 
 ## Conferences
 <div>
