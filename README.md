@@ -33,7 +33,7 @@
 <div>
  <span style="display:inline-block; width:150px; vertical-align:top;">2024</span> 
   <span style="display:inline-block; width:calc(100% - 160px);"> 
-   M. Bascuñán, S. Ortega, S. Villanova and P. Assmann <em>Comparison of N-body simulations with Gaia DR3
+   Bascuñán, M., Ortega, S., Villanova, S., and P. Assmann <em>Comparison of N-body simulations with Gaia DR3
 data from OB associations</em>. Boletín de la Asociación Argentina de Astronomía.
    </span>
 </div>
